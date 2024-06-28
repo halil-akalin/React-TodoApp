@@ -1,0 +1,26 @@
+.text-center {
+    margin: 2rem;
+}
+
+.input-bar-group {
+    display: flex;
+    justify-content: center;
+}
+
+.form-bar {
+    width: 50rem;
+    height: 2.813rem;
+    border: 0.1px solid #535353;
+    border-radius: 0.9rem;
+    padding-left: 20px;
+}
+
+.input-add-button {
+    width: 4.375rem;
+    height: 2.813rem;
+    border: 0.1px solid #474747;
+    border-radius: 0.9rem;
+    background-color: #1E90FF;
+    color: aliceblue;
+    margin-left: 1rem;
+}

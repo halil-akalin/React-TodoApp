@@ -1,0 +1,34 @@
+h2 {
+    display: flex;
+    justify-content: center;
+    padding: 0.8rem;
+}
+
+.todos-wrapper {
+    display: grid;
+    justify-items: center;
+
+}
+
+.todo-list {
+    border: 0.1px solid #535353;
+    border-radius: 0.9rem;
+    width: 50rem;
+    height: 3.813rem;
+    height: 2.813rem;
+    margin-top: 1rem;
+    list-style: none;
+    padding-left: 1.25rem;
+    padding-top: 0.625rem;
+    padding-right: 1.25rem;
+    padding-bottom: 0.625rem;
+    background-color: #dfece2;
+    color: #262a2e;
+    display: flex;
+    justify-content: space-between;
+}
+
+.completed {
+    text-decoration: line-through;
+  }
+  
